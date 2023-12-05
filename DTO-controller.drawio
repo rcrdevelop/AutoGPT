@@ -1,9 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T13:52:09.231Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="22.1.5" etag="FnuMElAUvG1IkxyVLzyU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:01:16.717Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nkkGjAOQwYQ8ZLxVJAFC" version="22.1.5" type="github">
   <diagram name="Page-1" id="3tjpzb4QfajStaDo5LZL">
-    <mxGraphModel>
+    <mxGraphModel dx="1178" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-1" value="Base de datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="102" width="160" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="nLwnLKCjoD_FBnMGG12C-3">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="1" y="167.07999999999998" as="sourcePoint" />
+            <mxPoint x="121" y="167.07999999999998" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="nLwnLKCjoD_FBnMGG12C-3" target="nLwnLKCjoD_FBnMGG12C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-3" value="Filtrado de datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="52" y="127.49999999999993" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-4" value="Interfaz de Usuario" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="271" y="127.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="263" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="111" y="261" width="45.92" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-8" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.desktop_and_app_streaming;" vertex="1" parent="1">
+          <mxGeometry x="312" y="263" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-9" value="Usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="-49" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-10" value="Datos Publicos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-9">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-11" value="Datos Privados" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-9">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-12" value="Meta datos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-9">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-13" value="Usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="63.96000000000001" y="-53" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-14" value="Datos Publicos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-13">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-15" value="Datos Privados" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-13">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-16" value="Meta datos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-13">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-18" value="Usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-53" width="140" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-19" value="Datos Publicos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-18">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-21" value="Meta datos - Filtrado" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="nLwnLKCjoD_FBnMGG12C-18">
+          <mxGeometry y="52" width="140" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="nLwnLKCjoD_FBnMGG12C-23" value="Filtrado de datos por medio de los DTO" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="45" y="-156" width="174" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
