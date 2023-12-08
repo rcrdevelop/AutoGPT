@@ -1,9 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T15:57:13.984Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="22.1.7" etag="rvy61cGREjWeBDbh15rs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T16:55:04.417Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nerukW-HPqNNaFwK0sZ4" version="22.1.7" type="github" pages="4">
   <diagram name="Page-1" id="t2iC4MAuQ9D4ac19UDOo">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YOHM4tbMjp0LFfWyastX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="330" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="YOHM4tbMjp0LFfWyastX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YOHM4tbMjp0LFfWyastX-4" value="INGRESAR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YOHM4tbMjp0LFfWyastX-5" value="¿No tienes cuenta aún? Registrarte." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YOHM4tbMjp0LFfWyastX-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eFB9UIa7KmZeyvnnCRv1" name="Page-2">
+    <mxGraphModel dx="662" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BoimmIqbML_klMr6yKTe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-10" value="Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="77" width="313" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-11" value="&lt;div&gt;Buscador de empleos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="84" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="78" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-12" value="&lt;div&gt;Filtros&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="84" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoimmIqbML_klMr6yKTe-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" vertex="1" parent="1">
+          <mxGeometry x="666" y="74" width="25.8" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dmEfeO81uyzIGuN4FabC" name="Page-3">
+    <mxGraphModel dx="993" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H4uIlL2XNo62clr_j6nB-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="170" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-7" value="Barra de navegación Superior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-8" value="Visualizador de Empleos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-9" value="Resultados de Busqueda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H4uIlL2XNo62clr_j6nB-10" value="Menu " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="316.56" width="90" height="16.88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bwv0ThRcYUJ7e4YsWZKp" name="Page-4">
+    <mxGraphModel dx="794" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="170" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-5" value="Barra de navegación Superior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-6" value="Visualizador de Empleos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-7" value="Resultados de Busqueda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-8" value="Menu " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="316.56" width="90" height="16.88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
