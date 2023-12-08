@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T16:55:04.417Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nerukW-HPqNNaFwK0sZ4" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-08T16:56:43.921Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="STCaCUWAlX-5HubtIvc5" version="22.1.7" type="github" pages="6">
   <diagram name="Page-1" id="t2iC4MAuQ9D4ac19UDOo">
     <mxGraphModel dx="794" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,13 +112,71 @@
         <mxCell id="I79w1jXEmJokKpnK9Fn6-5" value="Barra de navegación Superior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="65" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I79w1jXEmJokKpnK9Fn6-6" value="Visualizador de Empleos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-6" value="Visualizador de CV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="310" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I79w1jXEmJokKpnK9Fn6-7" value="Resultados de Busqueda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I79w1jXEmJokKpnK9Fn6-7" value="Vista de Perfil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="310" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I79w1jXEmJokKpnK9Fn6-8" value="Menu " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="316.56" width="90" height="16.88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ozvNVDAsbNxwIUzE0o-z" name="Page-5">
+    <mxGraphModel dx="794" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-5" value="Barra de navegación Superior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-7" value="Panel Administrador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4svUAl8rtZeyZrVfJMx-8" value="Menu " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="316.56" width="90" height="16.88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JSqRvJv2Fwp_eU3T0HMv" name="Page-6">
+    <mxGraphModel dx="794" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v-pePvr8d_o339GViE_T-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="170" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-5" value="Barra de navegación Superior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-6" value="Candidatos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-7" value="Panel Reclutador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v-pePvr8d_o339GViE_T-8" value="Menu " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="316.56" width="90" height="16.88" as="geometry" />
         </mxCell>
       </root>
